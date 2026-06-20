@@ -126,7 +126,7 @@ Continuously monitor satisfaction scores and address recurring customer concerns
 
 ## Dashboard Preview
 
-![Dashboard](Image/dashboard.png)
+![Dashboard](image/dashboard.png)
 
 
 
